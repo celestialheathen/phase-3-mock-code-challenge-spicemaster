@@ -2,7 +2,7 @@
   "spiceblends": [
     {
       "id": 1,
-      "title": "Pumpkin Spice",
+      "title": "cumin",
       "image": "./assets/spices/pumpkinspicelatte.jpg"
     },
     {
@@ -106,6 +106,69 @@
       "name": "Pepper",
       "spiceblendId": 3,
       "id": 17
+    },
+    {
+      "name": "coco",
+      "id": 18
+    },
+    {
+      "name": "matcha",
+      "id": 19
+    },
+    {
+      "name": "coco powder",
+      "spiceblendId": "1",
+      "id": 20
+    },
+    {
+      "name": "matcha powder",
+      "spiceblendId": "1",
+      "id": 21
+    },
+    {
+      "name": "fafs",
+      "spiceblendId": "1",
+      "id": 22
+    },
+    {
+      "name": "",
+      "spiceblendId": "1",
+      "id": 23
+    },
+    {
+      "name": "coco powder",
+      "spiceblendId": "1",
+      "id": 24
+    },
+    {
+      "name": "",
+      "spiceblendId": "1",
+      "id": 25
+    },
+    {
+      "name": "coco",
+      "spiceblendId": 1,
+      "id": 26
+    },
+    {
+      "name": "matcha powder",
+      "spiceblendId": 1,
+      "id": 27
+    },
+    {
+      "name": "curry",
+      "spiceblendId": 1,
+      "id": 28
+    },
+    {
+      "name": "weeee",
+      "spiceblendId": 1,
+      "id": 29
+    },
+    {
+      "name": "CBD",
+      "spiceblendId": 1,
+      "id": 30
     }
   ]
 }
